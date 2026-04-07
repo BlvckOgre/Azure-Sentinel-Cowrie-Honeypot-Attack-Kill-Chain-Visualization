@@ -1,0 +1,2 @@
+# Azure-Sentinel-Cowrie-Honeypot-Attack-Kill-Chain-Visualization
+This project demonstrates a **cloud‑native security monitoring pipeline** using a Cowrie SSH Honeypot hosted on Azure and fully integrated with **Microsoft Sentinel**.   The objective of this project is to move beyond basic log ingestion and build a **complete Attack Kill Chain visualization**, enabling real‑time tracking of adversary behavior.
